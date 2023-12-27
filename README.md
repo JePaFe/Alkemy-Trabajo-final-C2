@@ -11,3 +11,9 @@ npm install
 ```
 npm run dev
 ```
+
+## Enlaces
+
+[GitHub](https://github.com/JePaFe/Alkemy-Trabajo-final-C2)
+
+[Vercel](https://alkemy-trabajo-final-c2.vercel.app/)
